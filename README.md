@@ -1,4 +1,4 @@
-# ⚠️ Basic Keylogger Simulation - EDUCATIONAL USE ONLY
+# ⚠️ Basic Keylogger - EDUCATIONAL USE ONLY
 
 **Author:** Saddam Hussain  
 **Internship:** Arch Technologies (Cyber Security)
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python3 keylogger.py
 ```
 
-Press ESC to stop logging.
+Press `ESC` to stop logging.
 
 ⚠️ CRITICAL LEGAL WARNING
 This script is created strictly for learning and testing on your own personal devices.
