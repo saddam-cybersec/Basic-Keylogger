@@ -1,4 +1,4 @@
-# ⚠️ Basic Keylogger - EDUCATIONAL USE ONLY
+# Basic Keylogger - EDUCATIONAL USE ONLY
 
 **Author:** Saddam Hussain  
 **Internship:** Arch Technologies (Cyber Security)
