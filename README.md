@@ -1,6 +1,3 @@
-**For the Keylogger README (`Keylogger-Project/README.md`):**
-
-````markdown
 # ⚠️ Basic Keylogger Simulation - EDUCATIONAL USE ONLY
 
 **Author:** Saddam Hussain  
@@ -25,7 +22,6 @@ pip install -r requirements.txt
 # Run the script (No sudo required)
 python3 keylogger.py
 ```
-````
 
 Press ESC to stop logging.
 
